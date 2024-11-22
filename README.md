@@ -23,3 +23,43 @@ Here are some ideas to get you started:
   />
 </a>
   
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/yujinn-Jung?pet-id=647167594631256073"
+    width="600"
+    height="120"
+  />
+</a>
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/yujinn-Jung?pet-id=647704273452529922"
+    width="600"
+    height="120"
+  />
+</a>
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/yujinn-Jung?pet-id=647327057216523164"
+    width="600"
+    height="120"
+  />
+</a>
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/yujinn-Jung?pet-id=647714746390533215"
+    width="600"
+    height="120"
+  />
+</a>
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/yujinn-Jung?pet-id=645679885035238966"
+    width="600"
+    height="120"
+  />
+</a>
+  
